@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Actividad Principiante Validor de Contraseña"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
